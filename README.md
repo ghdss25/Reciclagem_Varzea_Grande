@@ -1,8 +1,8 @@
 
 # Sobre a Reciclagem Várzea Grande
 
-**Empresa que recicla ítens elétronicos para estruturar vidas a novos produtos para o mercado, obtém a cada dia a entrada e saída de reciclos 
-para contextualizar lixos reciclaveis a restruturação de maquina ** 
+Empresa que recicla ítens elétronicos para estruturar vidas a novos produtos para o mercado, obtém a cada dia a entrada e saída de reciclos 
+para contextualizar lixos reciclaveis a restruturação de maquina  
 
 **Disponiblizado pela empresa, um conjunto de dados que teve como foco criar análise exploratória dos dados na parte de qualidade, desempenho
  eficiência, OEE, Volume Padrão, Volume Líquido,  Volume Refugo, Volume Bruto, Horas Ativas, Horas Ínativas, Nomes e Setores**
