@@ -17,14 +17,14 @@ Produção de Reciclagem: 1 planilha, Assuntos: Dados em relação a volume, hor
 
 Planilha de Deposito 
 
-Análise de Peso por Fornecedor 
-Análise de Peso por Produto 
-Peso total por Ano e Mês 
-Lote, Placa por Peso 
+**Análise de Peso por Fornecedor** 
+**Análise de Peso por Produto** 
+**Peso total por Ano e Mês** 
+**Lote, Placa por Peso** 
 
 Planilha de Setor Sangue 
 
-*Análise de Peso por Lote 
+Análise de Peso por Lote 
 Análise de Fornecedor, Sangue por Peso  
 Análise de Peso do Setor Sangue por Data, Mês e Dia 
 
