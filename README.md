@@ -123,4 +123,4 @@ Planilha de Sangue Liquido
 
 - [statsmodels](https://www.statsmodels.org/stable/index.html) 
 
-- [patsy](https://patsy.readthedocs.io/en/latest/)
+- [patsy](https://patsy.readthedocs.io/en/latest/) 
