@@ -1,17 +1,13 @@
 
 # Sobre a Reciclagem Várzea Grande
 
-Empresa que recicla ítens elétronicos para estruturar vidas a novos produtos para o mercado, obtém a cada dia a entrada e saída de reciclos 
-para contextualizar lixos reciclaveis a restruturação de maquina  
+Empresa que recicla itens eletrônicos para estruturar vidas a novos produtos para o mercado, obtém a cada dia a entrada e saída de reciclo para contextualizar lixos recicláveis a restruturação de maquina
 
-**Disponiblizado pela empresa, um conjunto de dados que teve como foco criar análise exploratória dos dados na parte de qualidade, desempenho
- eficiência, OEE, Volume Padrão, Volume Líquido,  Volume Refugo, Volume Bruto, Horas Ativas, Horas Ínativas, Nomes e Setores**
- 
-**Nesses dados foram envidados os seguintes arquivos: 
+Disponibilizado pela empresa, um conjunto de dados que teve como foco criar análise exploratória dos dados na parte de qualidade, desempenho eficiência, OEE, Volume Padrão, Volume Líquido, Volume Refugo, Volume Bruto, Horas Ativas, Horas Inativas, Nomes e Setores
 
-Controle de Entrada da Matéria Prima: 3 planilhas,  Assuntos: Deposito, Setor Sangue, Expedição PA 
-Entrada da Matéria Prima: 3 planilhas, Assuntos: Lançamentos MP, Oléo Saturado, Sangue Líquido 
-Produção de Reciclagem: 1 planilha, Assuntos: Dados em relação a volume, horas, metas e desempenho 
+**Nesses dados foram envidados os seguintes arquivos:
+
+Controle de Entrada da Matéria Prima: 3 planilhas, Assuntos: Deposito, Setor Sangue, Expedição PA Entrada da Matéria Prima: 3 planilhas, Assuntos: Lançamentos MP, Óleo Saturado, Sangue Líquido Produção de Reciclagem: 1 planilha, Assuntos: Dados em relação a volume, horas, metas e desempenho
 
 ## Tarefas para a planilha de Controle de Entrada da Matéria Prima 
 
