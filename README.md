@@ -129,7 +129,7 @@ Gráfico de regressão parcial para um conjuntos de Planos em OEE e Refugo
 
 ## Passos para a Tarefa 
 
-
+Vocês vão encontrar esses passos nos arquivos .ipynb
 
 ## Tecnologias Utilizadas 
 
@@ -170,3 +170,5 @@ Gráfico de regressão parcial para um conjuntos de Planos em OEE e Refugo
 - [statsmodels](https://www.statsmodels.org/stable/index.html) 
 
 - [patsy](https://patsy.readthedocs.io/en/latest/)  
+
+
