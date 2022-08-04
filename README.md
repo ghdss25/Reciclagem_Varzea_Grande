@@ -38,48 +38,48 @@ Análise de Carregamento por ticket
 ## Tarefas para a planilha de Entrada da Matéria Prima 
 
 Planilha de Lançamentos MP 
-** Distribuição de Lotes ** 
-** Distribuição de produtos por Situação **
-** Número de fornecedores pertencentes a cada Peso Recebido ** 
-** Número de produtos pertencentes ** 
-** Peso do Produto na visualização de supervisor **
-** Média de Peso NF-e por Produto e Situação ** 
+*Distribuição de Lotes 
+*Distribuição de produtos por Situação 
+*Número de fornecedores pertencentes a cada Peso Recebido 
+*Número de produtos pertencentes ** 
+*Peso do Produto na visualização de supervisor **
+*Média de Peso NF-e por Produto e Situação ** 
 
 Planilha de Óleo Saturado 
-** Quantidade de Peso Recebido por dias em Lotes **
-** O Número de Peso recebidos a cada supervisor **
-** Comportamento dos Produtos pelo Recebimento dos Pesos recebidos em relação aos dias de entregue **
-** Media de peso por mês e ano ** 
-** Quantidade e Total de Peso Recebido, por Placas de Carros das Reciclagens ** 
+*Quantidade de Peso Recebido por dias em Lotes **
+*O Número de Peso recebidos a cada supervisor **
+*Comportamento dos Produtos pelo Recebimento dos Pesos recebidos em relação aos dias de entregue **
+*Media de peso por mês e ano ** 
+*Quantidade e Total de Peso Recebido, por Placas de Carros das Reciclagens ** 
 
 Planilha de Sangue Liquido 
-** Superiores que obtiveram mais pesos recebidos dos produtos **
-** Frequência dos Pesos Realizados por Dia ** 
-** O maior número de pesos recebidos, pelos supervisores **
-** Quantidade de Lotes, Placas por Pesos Realizados **
-** Média de Peso Realizado do Ano de 2022, com o Mês e Dia ** 
-** Análise de Dia e Mês em Media ** 
+*Superiores que obtiveram mais pesos recebidos dos produtos **
+*Frequência dos Pesos Realizados por Dia ** 
+*O maior número de pesos recebidos, pelos supervisores **
+*Quantidade de Lotes, Placas por Pesos Realizados **
+*Média de Peso Realizado do Ano de 2022, com o Mês e Dia ** 
+*Análise de Dia e Mês em Media ** 
 
 ## Tarefas para a planilha de Produção de Reciclagem 
-** Nome por Horas Ativas e Inativas **
-** Setores por Horas Ativas e Inativas **
-** Gráfico Geral Sobre os Volumes por Périodo ** 
-** Gráfico Geral Sobre Setores e Nomes por Volume ** 
-** Estatistica de Volumes ** 
-** Total e Média de Volumes Liquidos, Refugos, Brutos **
-** Estatistica do Metas **
-** Histograma de Metas Reais ** 
-** Densidade de Metas de Produção **
-** Meta Real por Setores ** 
-** Meta Real por Nome **  
-** Gráfico de regressão parcial para um conjuntos de Planos ** 
-** Produtividade e Eficiência por Nome ** 
-** Produtividade e Eficiência por Setores ** 
-** Qualidade e Desempenho por Setores ** 
-** Qualidade e Desempenho por Nome ** 
-** Gráfico de regressão parcial para um conjuntos de Planos em OEE e Refugo ** 
-** Índice das OEE e Refugos por Trabalhadores ** 
-** Índice das OEE e Refugos por Setores ** 
+*Nome por Horas Ativas e Inativas **
+*Setores por Horas Ativas e Inativas **
+*Gráfico Geral Sobre os Volumes por Périodo ** 
+*Gráfico Geral Sobre Setores e Nomes por Volume ** 
+*Estatistica de Volumes ** 
+*Total e Média de Volumes Liquidos, Refugos, Brutos **
+*Estatistica do Metas **
+*Histograma de Metas Reais ** 
+*Densidade de Metas de Produção **
+*Meta Real por Setores ** 
+*Meta Real por Nome **  
+*Gráfico de regressão parcial para um conjuntos de Planos ** 
+*Produtividade e Eficiência por Nome ** 
+*Produtividade e Eficiência por Setores ** 
+*Qualidade e Desempenho por Setores ** 
+*Qualidade e Desempenho por Nome ** 
+*Gráfico de regressão parcial para um conjuntos de Planos em OEE e Refugo ** 
+*Índice das OEE e Refugos por Trabalhadores ** 
+*Índice das OEE e Refugos por Setores ** 
 
 ## Passos para a Tarefa 
 
