@@ -15,15 +15,17 @@ Produção de Reciclagem: 1 planilha, Assuntos: Dados em relação a volume, hor
 ## Tarefas para a planilha de Controle de Entrada da Matéria Prima 
 
 Planilha de Deposito 
-** Análise de Peso por Fornecedor ** 
-** Análise de Peso por Produto ** 
-** Peso total por Ano e Mês ** 
-** Lote, Placa por Peso ** 
+
+Análise de Peso por Fornecedor 
+Análise de Peso por Produto 
+Peso total por Ano e Mês 
+Lote, Placa por Peso *
 
 Planilha de Setor Sangue 
-** Análise de Peso por Lote ** 
-** Análise de Fornecedor, Sangue por Peso ** 
-** Análise de Peso do Setor Sangue por Data, Mês e Dia ** 
+
+Análise de Peso por Lote 
+Análise de Fornecedor, Sangue por Peso  
+Análise de Peso do Setor Sangue por Data, Mês e Dia 
 
 Planilha de Expedição PA 
 ** Análise da Expedição PA de Placa e Lote por Peso ** 
