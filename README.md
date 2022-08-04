@@ -125,4 +125,4 @@ Gráfico de regressão parcial para um conjuntos de Planos em OEE e Refugo
 
 - [statsmodels](https://www.statsmodels.org/stable/index.html) 
 
-- [patsy](https://patsy.readthedocs.io/en/latest/) 
+- [patsy](https://patsy.readthedocs.io/en/latest/)  
