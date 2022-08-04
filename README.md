@@ -17,8 +17,8 @@ Produção de Reciclagem: 1 planilha, Assuntos: Dados em relação a volume, hor
 
 ** Planilha de Deposito **
 
-Análise de Peso por Fornecedor
-Análise de Peso por Produto 
+** Análise de Peso por Fornecedor **
+** Análise de Peso por Produto ** 
 Peso total por Ano e Mês 
 Lote, Placa por Peso 
 
