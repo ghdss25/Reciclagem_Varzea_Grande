@@ -1,13 +1,14 @@
 
 # Sobre a Reciclagem Várzea Grande
 
-** Empresa que recicla ítens elétronicos para estruturar vidas a novos produtos para o mercado, obtém a cada dia a entrada e saída de reciclos 
+**Empresa que recicla ítens elétronicos para estruturar vidas a novos produtos para o mercado, obtém a cada dia a entrada e saída de reciclos 
 para contextualizar lixos reciclaveis a restruturação de maquina ** 
 
-** Disponiblizado pela empresa, um conjunto de dados que teve como foco criar análise exploratória dos dados na parte de qualidade, desempenho
+**Disponiblizado pela empresa, um conjunto de dados que teve como foco criar análise exploratória dos dados na parte de qualidade, desempenho
  eficiência, OEE, Volume Padrão, Volume Líquido,  Volume Refugo, Volume Bruto, Horas Ativas, Horas Ínativas, Nomes e Setores**
  
-** Nesses dados foram envidados os seguintes arquivos: 
+**Nesses dados foram envidados os seguintes arquivos: 
+
 Controle de Entrada da Matéria Prima: 3 planilhas,  Assuntos: Deposito, Setor Sangue, Expedição PA 
 Entrada da Matéria Prima: 3 planilhas, Assuntos: Lançamentos MP, Oléo Saturado, Sangue Líquido 
 Produção de Reciclagem: 1 planilha, Assuntos: Dados em relação a volume, horas, metas e desempenho 
@@ -28,10 +29,11 @@ Análise de Fornecedor, Sangue por Peso
 Análise de Peso do Setor Sangue por Data, Mês e Dia 
 
 Planilha de Expedição PA 
-** Análise da Expedição PA de Placa e Lote por Peso ** 
-** Análise da expedição PA CLIENTE / DESTINO por Peso ** 
-** Análise de carregamento e produto por peso total ** 
-** Análise de Carregamento por ticket ** 
+
+Análise da Expedição PA de Placa e Lote por Peso 
+Análise da expedição PA CLIENTE / DESTINO por Peso  
+Análise de carregamento e produto por peso total 
+Análise de Carregamento por ticket
 
 ## Tarefas para a planilha de Entrada da Matéria Prima 
 
